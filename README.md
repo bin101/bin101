@@ -19,12 +19,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=fff&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=fff&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=fff&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ReactiveX-informational?style=for-the-badge&logo=reactivex&logoColor=fff&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=for-the-badge&logo=graphql&logoColor=fff&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-nginx-informational?style=for-the-badge&logo=nginx&logoColor=fff&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=for-the-badge&logo=ansible&logoColor=fff&color=2bbc8a)
-
 
 
 <!--
